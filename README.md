@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on desktop application projects
 - 📫 How to reach me: Email
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love playing guitar
 
 <!---
 redhatgamer/redhatgamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
