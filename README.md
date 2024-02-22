@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redhatgamer
-- 👀 I’m interested in web development and front-end designing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on desktop application projects
+- 👀 I’m interested in any type of development
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: Email
 - ⚡ Fun fact: I love playing guitar
 
