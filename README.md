@@ -30,15 +30,8 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=redhatgamer)
 
-## 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=redhatgamer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
-
 ## 📈 GitHub Streak Stats
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=redhatgamer&theme=radical)
 
-## 🌐 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/redhatgamer/count.svg)
 
