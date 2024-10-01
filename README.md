@@ -15,7 +15,7 @@
 
 ## 📬 Get in Touch
 
-- 📧 Email: cmeji0011@gmail.com
+- 📧 Email: carlosdmejia.dev@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/carlos1mejia/
 
 ## 🌟 GitHub Stats
@@ -25,10 +25,6 @@
 ## 🛠️ Skills & Tools
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redhatgamer&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=redhatgamer)
 
 ## 📈 GitHub Streak Stats
 
