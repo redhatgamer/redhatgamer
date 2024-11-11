@@ -1,35 +1,20 @@
 
-# Hello, I'm Carlos Mejia 👋
 
-### Aspiring Full Stack Software Engineer
 
-- 📚 Currently studying **Computer Science** at **Florida International University**  
-- 🌱 Actively learning **Data Structures**, **Computer Architecture**, and **Machine Learning Techniques**
-- 🤝 Open to collaborative projects in **Full-Stack Development**, **AI**, and **Cloud Architecture**
-- 💻 Skilled in **Python**, **Java**, **JavaScript**, **C#**, **React**, **Firebase**, **HTML & CSS**
 
----
+### Hey there👋
 
-### 🌐 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carlosdmejia.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos1mejia/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/your-discord-id) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+___
 
----
+I am Carlos Mejia, a passionate computer science student currently hacking on various projects and exploring innovative tech solutions.
 
-### ❄️ Stats ❄️
+I love to work with augmented reality, game development, and web applications. I’m proficient in JavaScript, Java, Python, Swift, and TypeScript, and I enjoy experimenting with Unity, React.js, and Linux. Currently, I'm focused on pushing my skills in AI-driven applications and game mechanics.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redhatgamer&show_icons=true&theme=radical" alt="Carlos's GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhatgamer&layout=compact&theme=radical" alt="Top Languages" height="150">
-</p>
+As you might have guessed, I’m always curious about new tools and frameworks, especially in areas like Linux and design, and I enjoy diving into different programming languages and open-source projects.
 
----
 
-### 📊 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhatgamer&layout=compact&theme=radical" alt="Most Used Languages">
-</div>
+(I love creating music. I play guitar)
 
----
+
+![](https://komarev.com/ghpvc/?username=redhatgamer)
+
