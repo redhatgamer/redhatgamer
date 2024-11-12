@@ -12,7 +12,8 @@ I love to work with augmented reality, game development, and web applications. I
 
 As you might have guessed, I’m always curious about new tools and frameworks, especially in areas like Linux and design, and I enjoy diving into different programming languages and open-source projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightblue)](https://redhatgamer.github.io/my-portfolio/) (made by me -_-)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightblue)](https://redhatgamer.github.io/my-portfolio/)
+(made by me -_-)
 
 
 
