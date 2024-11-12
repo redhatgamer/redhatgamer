@@ -15,7 +15,7 @@ As you might have guessed, I’m always curious about new tools and frameworks, 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightblue)](https://redhatgamer.github.io/my-portfolio/)
 
 
-(made by me -_-)
+(portfolio made by me -_-)
 
 
 (I love creating music. I play guitar)
