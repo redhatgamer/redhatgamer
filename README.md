@@ -12,13 +12,16 @@ I love to work with augmented reality, game development, and web applications. I
 
 As you might have guessed, I’m always curious about new tools and frameworks, especially in areas like Linux and design, and I enjoy diving into different programming languages and open-source projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightblue)](https://redhatgamer.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://redhatgamer.github.io/my-portfolio/)
 
 
 (portfolio made by me -_-)
 
 
-(I love creating music. I play guitar)
+(I love creating music. I play guitar. My music is available on all streaming platforms!)
+
+
+[![Music](https://img.shields.io/badge/Music-Visit%20Now-blue)](https://open.spotify.com/artist/0cJlER8v5Ol8iGRRbj1MQT?si=LaMllpr2QV6sRQ4P1sAXwg)
 
 ![redhatgamer's Stats](https://github-readme-stats.vercel.app/api?username=redhatgamer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
