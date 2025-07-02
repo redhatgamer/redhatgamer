@@ -31,16 +31,22 @@ I'm a Computer Science student at Florida International University, pursuing a B
 
 ## 📊 Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redhatgamer&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=redhatgamer&theme=dracula&hide_border=false" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=redhatgamer&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhatgamer&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" />
+  
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhatgamer&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=redhatgamer&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=redhatgamer&theme=dracula&hide_border=false" width="400" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=redhatgamer&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="700" />
+</div>
+
 
 
