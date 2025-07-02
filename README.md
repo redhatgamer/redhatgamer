@@ -1,33 +1,27 @@
+# 💫 About Me:
+🔭 I’m currently learning C++.<br>👯 I’m looking to collaborate on Machine Learning Projects.<br>🤝 I’m looking for help with Bias in Machine Learning.<br>💬 Ask me about Linux<br>⚡ Fun fact: I love creating alternative indie music
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mejia5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carlosdmejia.dev@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=redhatgamer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=redhatgamer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=redhatgamer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Hey there👋
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=redhatgamer&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-___
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-I am Carlos Mejia, a passionate computer science student currently hacking on various projects and exploring innovative tech solutions.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=redhatgamer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-I love to work with augmented reality, game development, and web applications. I’m proficient in JavaScript, Java, Python, Swift, and TypeScript, and I enjoy experimenting with Unity, React.js, and Linux. Currently, I'm focused on pushing my skills in AI-driven applications and game mechanics.
+---
+[![](https://visitcount.itsvg.in/api?id=redhatgamer&icon=0&color=3)](https://visitcount.itsvg.in)
 
-As you might have guessed, I’m always curious about new tools and frameworks, especially in areas like Linux and design, and I enjoy diving into different programming languages and open-source projects.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://redhatgamer.github.io/my-portfolio/)
-
-
-(portfolio made by me -_-)
-
-
-(I love creating music. I play guitar. My music is available on all streaming platforms!)
-
-
-[![Music](https://img.shields.io/badge/Music-Visit%20Now-blue)](https://open.spotify.com/artist/0cJlER8v5Ol8iGRRbj1MQT?si=LaMllpr2QV6sRQ4P1sAXwg)
-
-![redhatgamer's Stats](https://github-readme-stats.vercel.app/api?username=redhatgamer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![redhatgamer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=redhatgamer&theme=tokyonight&hide_border=true)
-
-![redhatgamer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redhatgamer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=redhatgamer)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
