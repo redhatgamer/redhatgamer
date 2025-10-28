@@ -1,7 +1,5 @@
 [![hello-there-welcome-to-my-profile.png](https://i.postimg.cc/NFcM2qzY/hello-there-welcome-to-my-profile.png)](https://postimg.cc/nj3ZN5xw)
 # Hello, my name is Carlos D. Mejia
-## Student in Computer Science
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
