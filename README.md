@@ -4,7 +4,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-I'm a Computer Science student at Florida International University, pursuing a B.A. in Computer Science with a Minor in Asian Studies. I'm passionate about game development and learning how to create new versions of Linux. My interests lie in machine learning, algorithms, and problem-solving. I enjoy taking on challenges that push me to think critically and grow as a developer. I'm very interested in learning about the foundations of AI and I’m always looking to collaborate on exciting projects, connect with like-minded individuals, and explore innovative uses of tech to make a positive impact.
+I'm a passionate Computer Science student at **Florida International University**, pursuing a B.A. in Computer Science with a Minor in Asian Studies. I thrive at the intersection of **creativity and technology**, diving deep into game development while exploring the art of crafting custom Linux distributions. 
+
+My curiosity spans **machine learning**, algorithmic problem-solving, and the fascinating foundations of AI. I'm driven by complex challenges that demand critical thinking and innovative solutions—the kind that push boundaries and create meaningful impact.
+
+Whether it's building the next breakthrough in gaming, contributing to open-source projects, or exploring AI's potential to solve real-world problems, I'm always eager to **collaborate, learn, and innovate** with fellow tech enthusiasts.
 
 🔍 Open to internships, networking, and learning opportunities.<br>
 📬 Feel free to reach out—I'm always up for a great tech conversation!
