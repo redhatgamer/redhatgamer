@@ -44,9 +44,6 @@ I believe in technology that feels alive — an AR story unfolding across city s
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Stats:
-
-![redhatgamer's Stats](https://github-readme-stats.vercel.app/api?username=redhatgamer&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![redhatgamer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=redhatgamer&theme=dark&hide_border=false)
 ![redhatgamer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redhatgamer&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
