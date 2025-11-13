@@ -7,7 +7,7 @@ I believe in technology that feels alive — an AR story unfolding across city s
 
 - 🎓 Studying Computer Science + Asian Studies at Florida International University, expected to graduate in December 2026 - May 2027
 - 🚩 I'm a GitHub Campus Expert.
-- 🔮 Built an AI-powered 3D storytelling platform using Unreal Engine, Luma AI & Eleven Labs — won 1st Place at the **Supercell** Global AI Game Hackathon
+- 🔮 Built an AI-powered 3D storytelling platform using Luma AI & Eleven Labs — won 1st Place at the **Supercell** Global AI Game Hackathon
 - 🏙️ Former AR Intern that developed an art exploration app for the City of Coral Gables
 - 🖥️ Former IT Intern improving UX workflows for Miami Dade County’s internal systems
 - 🎮 Game dev background with Unity, Unreal Engine, audio design & interactive systems
