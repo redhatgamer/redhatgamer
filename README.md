@@ -11,7 +11,6 @@ I believe in technology that feels alive — an AR story unfolding across city s
 - 🏙️ Former AR Intern that developed an art exploration app for the City of Coral Gables
 - 🖥️ Former IT Intern improving UX workflows for Miami Dade County’s internal systems
 - 🎮 Game dev background with Unity, Unreal Engine, audio design & interactive systems
-- 我喜欢学中文。(I am currently learning Chinese. I actually typed this!)
 - I love playing guitar and creating songs  
 - 😄 Pronouns: He/Him
 
