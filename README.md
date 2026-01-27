@@ -3,8 +3,6 @@ I’m Carlos, walking the path of a software engineer with the curiosity of a ga
 
 When I’m not writing code, I’m the one in the red GitHub Campus Expert hoodie, sharing stories about open source, creativity, and why hackathons feel like home.
 
-I believe in technology that feels alive — an AR story unfolding across city streets, a game world that learns from you, or a community that grows because it’s playful, not forced. If you want to talk AI agents, Gaussian splats, Unity prefabs, or how to build communities that feel like games, I’m always down.
-
 - 🎓 Studying Computer Science + Asian Studies at Florida International University, expected to graduate in December 2026 - May 2027
 - 🚩 I'm a GitHub Campus Expert.
 - 🔮 Built an AI-powered 3D storytelling platform using Luma AI & Eleven Labs — won 1st Place at the **Supercell** Global AI Game Hackathon
