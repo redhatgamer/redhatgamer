@@ -1,6 +1,6 @@
 ## Hi, I'm Carlos Mejia 👋
 
-I'm a Computer Science student at Florida International University (FIU), graduating December 2026. I'm interested in pursuing my passion in Machine Learning.
+I'm a Computer Science student at Florida International University (FIU), graduating December 2026. I'm interested in pursuing my passion in Machine Learning & Software Engineering.
 
 ## What I've Done
 
